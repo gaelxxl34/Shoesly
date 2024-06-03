@@ -17,19 +17,22 @@ This project demonstrates the implementation of a comprehensive mobile applicati
 - **Admin System**: Provides a complete system for managing all operations and viewing user orders.
 
 ### Screenshots
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.05.png" alt="Screenshot 1" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.14.png" alt="Screenshot 1" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.18.png" alt="Screenshot 2" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.23.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.42.07.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.42.46.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.43.10.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.43.43.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.44.21.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.45.40.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.45.50.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.46.02.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
-<img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.45.44.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.05.png" alt="Screenshot 1" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.14.png" alt="Screenshot 1" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.18.png" alt="Screenshot 2" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.41.23.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.42.07.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.42.46.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.43.10.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.43.43.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.44.21.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.45.40.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.45.50.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.46.02.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/gaelxxl34/Shoesly/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-03%20at%2014.45.44.png" alt="Screenshot 3" width="200" style="margin-right: 20px;">
+</div>
+
 
 
 ### Technologies Used
@@ -40,20 +43,49 @@ This project demonstrates the implementation of a comprehensive mobile applicati
 ### Packages Required
 
 Add the following packages to your `pubspec.yaml` file:
-```yaml
-dependencies:
-  cupertino_icons: ^1.0.2
-  provider: ^6.1.2
-  firebase_core: ^2.27.0
-  cloud_firestore: ^4.15.8
-  firebase_analytics: ^10.8.9
-  firebase_auth: ^4.17.8
-  flutter_launcher_icons: ^0.13.1
+cupertino_icons: ^1.0.2
+provider: ^6.1.2
+firebase_core: ^2.27.0
+cloud_firestore: ^4.15.8
+firebase_analytics: ^10.8.9
+firebase_auth: ^4.17.8
+flutter_launcher_icons: ^0.13.1
 
 ### Setup Instructions
-
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+bash
+Copy code
+git clone <repository-url>
+cd <repository-directory>
+
+2. Install the dependencies:
+Copy code
+flutter pub get
+
+3. Set up Firebase:
+Create a new Firebase project.
+Enable Authentication, Firestore, and other necessary services.
+Add the google-services.json (for Android) and GoogleService-Info.plist (for iOS) files to your Flutter project.
+
+5. Run the application:
+flutter run
+
+### Additional Information
+This project was built to meet the functional requirements outlined by Priority Soft, including:
+
+<ul>
+  <li>Displaying a grid list of shoes with infinite scroll and filtering options.</li>
+  <li>Product detail pages with multiple images, selectable options, and reviews.</li>
+  <li>A reviews page with filtering options.</li>
+  <li>A cart page with the ability to adjust quantities and remove items.</li>
+  <li>A checkout page with order summary and payment details.</li>
+  <li>Proper error handling for API requests.</li>
+  <li>Full responsiveness and adherence to the provided Figma design.</li>
+  <li>Clean, modular, and maintainable code.</li>
+</ul>
+
+### Conclusion
+This project demonstrates my ability to integrate multiple features and maintain high code quality while ensuring a seamless user experience. The additional features enhance the overall functionality and usability of the application. I have successfully implemented all required functionalities and added extra features to improve the user experience and administrative capabilities.
+
+For further resources and assistance with Flutter development, please refer to the Flutter online documentation, which offers tutorials, samples, and comprehensive guidance on mobile development.
 
