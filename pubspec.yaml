@@ -1,0 +1,44 @@
+name: priority_soft_test_project
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.8
+  firebase_analytics: ^10.8.9
+  firebase_auth: ^4.17.8
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon.png"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/
+    - assets/welcome.png
