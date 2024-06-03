@@ -34,6 +34,9 @@ This project demonstrates the implementation of a comprehensive mobile applicati
 </div>
 
 
+### Challenges
+- **Integrating Firebase Authentication and Firestore while maintaining a seamless user experience.**
+- **Optimizing the review system and ensuring accurate calculation of average ratings.**
 
 ### Technologies Used
 
@@ -82,6 +85,17 @@ This project was built to meet the functional requirements outlined by Priority 
   <li>Proper error handling for API requests.</li>
   <li>Full responsiveness and adherence to the provided Figma design.</li>
   <li>Clean, modular, and maintainable code.</li>
+</ul>
+
+### Additional Features
+<ul>
+  <li>Login and Sign Up pages with Firebase Authentication.</li>
+  <li>Stay-In feature to manage user sessions.</li>
+  <li>Optimized review system with filtering options.</li>
+  <li>Cart management features with redirection if the cart is empty.</li>
+  <li>Profile page with user data display and logout functionality.</li>
+  <li>Checkout page functionality for both users and admins.</li>
+  <li>Complete admin system for managing operations and viewing orders.</li>
 </ul>
 
 ### Conclusion
