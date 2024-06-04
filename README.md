@@ -98,6 +98,20 @@ This project was built to meet the functional requirements outlined by Priority 
   <li>Complete admin system for managing operations and viewing orders.</li>
 </ul>
 
+### Possible Enhancement 
+
+- **Push Notifications:**
+Add push notifications to keep users informed about their order status, promotional offers, and new product arrivals. This can be implemented using Firebase Cloud Messaging (FCM) to ensure real-time updates and increased user engagement.
+
+- **Wishlist Feature:**
+Introduce a wishlist feature that allows users to save products they are interested in for future purchases. This will enhance user experience by enabling them to quickly access their desired items without searching again.
+
+- **Product Search Functionality:**
+Implement a robust search functionality that allows users to search for products by name, category, or brand. This will make it easier for users to find specific products and improve overall user satisfaction.
+
+- **Dark Mode:**
+Add a dark mode option to the application, allowing users to switch between light and dark themes. This will improve usability, especially in low-light conditions, and cater to user preferences for different visual experiences.
+
 ### Conclusion
 This project demonstrates my ability to integrate multiple features and maintain high code quality while ensuring a seamless user experience. The additional features enhance the overall functionality and usability of the application. I have successfully implemented all required functionalities and added extra features to improve the user experience and administrative capabilities.
 
